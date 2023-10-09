@@ -1,0 +1,26 @@
+body
+{
+   text-align: center;
+    background-image: linear-gradient(lightpink, gold);
+}
+
+img
+{
+    height: 420x;
+    width: 500px;
+}
+button
+{
+    width: 400px;
+    height: 100px;
+    background-color:rgb(154, 231, 205);
+    border-color:greenyellow;
+    border-radius: 450px;
+}
+
+h1
+{
+    text-align: center;
+    color:rgb(149, 87, 186)
+    
+}

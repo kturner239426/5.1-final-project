@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: antiquewhite;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: antiquewhite;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(rgb(240, 120, 184), transparent),
+    repeating-linear-gradient(45deg, rgb(239, 207, 27) 0%, rgba(238, 156, 227, 0.937)5%, transparent 5%, transparent 10%),
+    rgb(216, 118, 255) repeating-linear-gradient(-45deg, rgba(210, 95, 255, 0.797)0%, rgba(183,0,255, 0.5)5%, transparent);
+}
+
+footer{
+    background-color:rgb(216, 118, 255) ;
+}

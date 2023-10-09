@@ -1,0 +1,21 @@
+body{
+    background-image: radial-gradient(aquamarine,yellow,rgb(235, 105, 30),rgb(175, 235, 34),rgb(243, 66, 175),aqua,skyblue );
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h2{
+    text-align: center;
+    font-family:font-family Georgia, 'Times New Roman', Times, serif
+}
+
+
+button{
+width: 150px;
+height: 50px;
+border-radius: 250px;
+background-color: rgb(123, 238, 7);
+}
